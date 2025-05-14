@@ -1,7 +1,7 @@
 # CSS_MINIPROJECT
 
 ## Description
-This project is a simple web page with a responsive CSS-based sliding menu. this menu is triggered by a checkbox and features smooth transitions for a polished user experience. It includes a clean layout, a logo, and social media links.
+This project is a simple web page with a responsive CSS-based sliding menu. This menu is triggered by a checkbox and features smooth transitions for a polished user experience. It includes a clean layout, a logo, and social media links.
 
 ## Demo
 Page before opening the menu
